@@ -1,4 +1,4 @@
-# [Cloning socks](hackerrank.com/contests/practice-1-sda/challenges/cloning-socks)
+# [Cloning socks](https://hackerrank.com/contests/practice-1-sda/challenges/cloning-socks)
 
 Наскоро сте се сдобили с машина за клониране на чорапи. Знаете, че ако сложите нормален чифт чорапи в машитата, тя ще ви даде още 1 нормален чифт и 1 копие на чорапите, но ако сложите копие на чорапите, тя ще ви даде още 2 копия.
 

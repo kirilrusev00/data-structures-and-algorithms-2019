@@ -1,4 +1,4 @@
-# [Пътна проверка](hackerrank.com/contests/sda-2019-2020-exam-2e3nr4rr/challenges/challenge-2353)
+# [Пътна проверка](https://www.hackerrank.com/contests/sda-2019-2020-exam-2e3nr4rr/challenges/challenge-2353)
 
 Даден ви е претеглен неориентиран граф G с N на брой върха, М на брой ребра. От вас се иска да намерите дали дадена поредица от върхове X_1,X_2,...,X_n образува път в графа и ако да, да изведете дължината на пътя.
 
