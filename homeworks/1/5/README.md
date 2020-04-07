@@ -1,4 +1,4 @@
-# [Darts 501](hackerrank.com/contests/practice-1-sda/challenges/darts-501)
+# [Darts 501](https://hackerrank.com/contests/practice-1-sda/challenges/darts-501)
 
 След успешния турнир по дартс на Freshers' Weekend 2019, от ФСС решиха да направят ежемесечен турнир на играта 501. С новия турнир обаче, дойдоха и нови тревоги за участниците. Те постоянно се чудеха какви и колко различни стратегии имат, които водят до бърза победа.
 
